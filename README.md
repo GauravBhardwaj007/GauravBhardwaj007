@@ -7,6 +7,14 @@ exponential value for organizations.
 Currently delving into the azure waters of AI and cloud technologies, I meticulously craft precise insights from complex datasets. 
 From predicting absenteeism patterns to sculpting captivating PowerBI dashboards, I orchestrate data narratives that resonate with stakeholders.
 
+Here, you will find that my journey through projects like Absenteeism Prediction, where I orchestrated a symphony of ETL, ML, 
+and Tableau to forecast absenteeism patterns with precision.
+
+Here you can also venture into my PowerBI-Adventure Works escapade, and you'll witness my mastery in data orchestration, 
+sculpting sleek dashboards that narrate tales of sales triumphs amidst the data chaos. 
+
+Oh, and don't forget my MySQL symphony, where I dissected music playlists with SQL sorcery, illuminating the path to business growth.
+
 Beyond the realm of algorithms, I find solace in conquering mountains and exploring vegan culinary delights. With treks scaling 
 dizzying heights of 6000m, I am not just data-driven; I am driven by the pursuit of excellence.
 
